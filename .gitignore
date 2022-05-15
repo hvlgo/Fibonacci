@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+hw.pdf
+hw2.md
+hw2/
